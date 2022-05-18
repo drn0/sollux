@@ -1,2 +1,5 @@
 # sollux
- what if there was a programming language that made everything worse?
+what if there was a programming language that made everything worse? don't worry, sollux has your back.
+
+## why...
+because
