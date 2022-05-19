@@ -1,4 +1,4 @@
-; ModuleID = "C:\Users\aelkh\Documents\GitHub\sollux\codegen.py"
+; ModuleID = "C:\Users\<mynamelol>\Documents\GitHub\sollux\codegen.py"
 target triple = "x86_64-pc-windows-msvc"
 target datalayout = ""
 
